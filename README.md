@@ -1,2 +1,5 @@
 # Expense-Management-System
-Automating expense workflows with multi-level, rule-based approvals and transparent tracking.
+## Live Demo
+You can check out the live version of the system at the following link:
+
+[Expense Management System Website](https://expenseflow.gt.tc/)
